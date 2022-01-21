@@ -5,5 +5,5 @@
 <b> Language used:</b> MIPS<br>
 </div>
 
-#Details
+# Details
 This is a simple program written in MIPS (Learnt as part of the course) that is capable of doing bubble sort.
